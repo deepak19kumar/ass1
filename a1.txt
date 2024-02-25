@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 changed 2
+=======
+chnaged
+>>>>>>> Stashed changes
 new lin e afdded
